@@ -26,7 +26,7 @@ pip install base64-encoder-cli
 
 ## 🚀 Quick Start: CLI UsageOnce installed, you can use the tool interactively from your terminal. 
 
-# simply run:-
+- simply run:-
 ```bash
 base64-tool
 ```
@@ -70,7 +70,7 @@ bXktcGFzc3dvcmQ=
 
 ## ⚠️ Important Security Note
 
- Note: Base64 is an encoding         scheme, NOT encryption!
++ Note: Base64 is an encoding         scheme, NOT encryption!
 
 # Please follow these security guidelines:
 
