@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "base64-encoder-cli"
+version = "1.0.0"
+description = "Interactive Base64 encoding/decoding utility"
+readme = "README.md"
+requires-python = ">=3.6"
+authors = [
+    {name = "Lucy"}
+]
+
+[project.scripts]
+base64-tool = "base64_encoder.encoder:main"
