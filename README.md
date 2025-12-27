@@ -24,9 +24,10 @@ pip install base64-encoder-cli
 ```
 ---
 
-## 🚀 Quick Start: CLI UsageOnce installed, you can use the tool interactively from your terminal. 
+## 🚀 Quick Start: CLI Usage
+- Once installed, you can use the tool interactively from your terminal. 
 
-- simply run:-
++ simply run:-
 ```bash
 base64-tool
 ```
@@ -64,7 +65,7 @@ bXktcGFzc3dvcmQ=
 
 # Library used :- 
 
-• base64_encoder
++ base64_encoder
 
 ---
 
