@@ -70,7 +70,7 @@ bXktcGFzc3dvcmQ=
 
 ## ⚠️ Important Security Note
 
-   # Note: Base64 is an encoding         scheme, NOT encryption!
+# Note: Base64 is an encoding         scheme, NOT encryption!
 
 # Please follow these security guidelines:
 
